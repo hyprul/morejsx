@@ -1,2 +1,0 @@
-# morejsx
-Created with CodeSandbox
